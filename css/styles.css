@@ -159,11 +159,7 @@ section{
 }
 .home-content .text-animate{
     
-    width: 32.0rem;
-   
-   
-   
-    
+    width: 32.0rem;   
 }
 .home-content .text-animate h3 {
    font-size: 3.2rem;
@@ -174,9 +170,7 @@ section{
    background-repeat: no-repeat;
    -webkit-background-clip: text;
    background-position: -33rem 0;
-   
-   
-
+ 
 }
 .home.show-animate .home-content .text-animate h3{
     animation: homeBgText 6s linear infinite;
@@ -244,8 +238,7 @@ section{
     transition: .5s;
     text-align:center;
     font-family: "poppins";
-    
-
+    text-decoration:none;
 
 }
 .btn-box .btn:hover{
@@ -837,6 +830,7 @@ section:nth-child(odd) .animate.scroll,
         transition: .5s;
         text-align: center;
         font-family: "poppins";
+        text-decoration:none;
     }
     #menu-icon {
         display: block;
@@ -919,6 +913,7 @@ section:nth-child(odd) .animate.scroll,
     width: 34.5rem;
     height: 5rem;
     text-align: center;
+    text-decoration:none;
 }
    
 }
