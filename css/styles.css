@@ -818,7 +818,6 @@ section:nth-child(odd) .animate.scroll,
         
     }
     .btn-box .btnv {
-        margin-left: -40px;
         position: relative;
         display: inline-block;
         justify-content: center;
